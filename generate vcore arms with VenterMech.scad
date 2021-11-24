@@ -103,5 +103,5 @@ module venterMech_star_drive(){
 //Repeat for each line so that you have all 3 bed arms
 
 vcore_arm_back();
-vcore_arm_left();
-vcore_arm_right();
+//vcore_arm_left();
+//vcore_arm_right();
